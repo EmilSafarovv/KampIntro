@@ -46,7 +46,7 @@ class Program
            
 
 
-            //Qulaqliq
+            //Qulaqliq.
 
            
         }
