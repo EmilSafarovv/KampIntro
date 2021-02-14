@@ -14,8 +14,8 @@ namespace DeyerVeReferansTipler
             sayi2 = 65; 
             
 
-         
-
+             
+              
 
         }
     }
